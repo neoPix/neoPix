@@ -2,7 +2,7 @@
 
 I'm a software engineer mostly working with JavaScript.
 
-- 🔭 I’m currently working on [Bluelinky](https://github.com/Hacksore/bluelinky)
+- 🔭 I’m currently working on [Bluelinky and related projects](https://github.com/Hacksore/bluelinky)
 - 🌱 I’m currently learning [golang](https://go.dev/)
 - ⏩ I’m currently performing with [Nodejs](https://nodejs.org/en/), [Vue.js](https://vuejs.org/), [Nest.js](https://nestjs.com/) and much more...
 - 👨‍💼 I’m working at [Seyna](https://www.seyna.eu/fr/)
