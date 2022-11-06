@@ -9,3 +9,7 @@ I'm a software engineer mostly working with JavaScript.
 - ✍️ I'm blogging on [my website](https://www.balandavid.com/en/blog/)
 - 💬 Ask me about anything [here](https://github.com/neoPix/neoPix/issues)
 - 😄 Pronouns: He/Him
+
+### Socials
+
+- <a rel="me" href="https://piaille.fr/@neopixl">Mastodon</a>
